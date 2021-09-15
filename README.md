@@ -1,0 +1,1 @@
+	This is a golang rewrite of my Python 3 program that reads the Hercules prt00e, prt00f and prt002 text files from MVS	(tk4- in my case) which contains multiple jobs, back to back and parses the jobs out to individual text files. It is meant to run within the Hercules "prt" subdirectory.
